@@ -1,20 +1,21 @@
-# Python Cache
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 
-# Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
 
 # Virtual Environment
 venv/
 env/
-.venv/
 
-# Environment Variables
-.env
+# Streamlit
+.streamlit/
 
-# VS Code
+# IDE
 .vscode/
+.idea/
 
-# Streamlit Secrets
-.streamlit/secrets.toml
+# System Files
+.DS_Store
+Thumbs.db
