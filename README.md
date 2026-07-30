@@ -74,8 +74,9 @@ Training data: 302 patient records (13 clinical features)
 
 ### 1. Clone or download the project
 
-    git clone https://github.com/farhan-ml/clinical-diagnostics-engine.git
-    cd clinical-diagnostics-engine
+[    git clone https://github.com/farhan-ml/clinical-diagnostics-engine.git
+](https://clinical-disease-diagnostics-engine-fumd7fhagutwvmwyrhflss.streamlit.app/)
+cd clinical-diagnostics-engine
 
 ### 2. Install dependencies
 
